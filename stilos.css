@@ -1,0 +1,43 @@
+.p1{
+    background-color: cornflowerblue;
+}
+
+.p2{
+    background-color: coral;
+    text-align: center;
+}
+
+.container {
+    background-color: white;
+    padding: 20px;
+    margin: 20px;
+}
+
+.h1, .h2 {
+    color: blue;
+    text-align: center;
+}
+
+.p2 {
+    background-color: orange;
+    color: black;
+    padding: 20px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    border: 2px solid black;
+}
+
+.f{
+    font-size: 15px;
+    text-align: center;
+    background-color: brown;
+    color: white;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+.imagenpuesta{
+    height: 300px;
+}
